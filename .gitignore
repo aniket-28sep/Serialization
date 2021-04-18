@@ -1,1 +1,4 @@
-Depersist.class Persist.class Student.class
+Depersist.class
+Persist.class
+Student.class
+*.txt
